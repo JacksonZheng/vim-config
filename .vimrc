@@ -18,6 +18,7 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'scrooloose/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'vim-syntastic/syntastic'
+Plugin 'terryma/vim-multiple-cursors'
 "Plugin 'vim-scripts/Conque-GDB'
 
 "Plugin 'rip-rip/clang_complete'
